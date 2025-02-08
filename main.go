@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-
 )
+
 func main() {
 	fmt.Println("this is the main!")
 	// varConst() // 01 data type
@@ -11,10 +11,10 @@ func main() {
 	// sli() // 03 slice
 	// ma()	// 04 map
 	// stru() // 05 structs
-	termFrequency()
+	// termFrequency()
+	//ageCalculator()
+	//BMI_Calculator()
+	//tipCalculator()
 
-} 
 
-
-
- 
+}
