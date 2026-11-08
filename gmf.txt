@@ -6,14 +6,6 @@ vless://7c1fd6a6-92ed-44dc-b667-512a900727de@www5.tupn.org:443?type=xhttp&encryp
 vless://7c1fd6a6-92ed-44dc-b667-512a900727de@www6.tupn.org:443?type=xhttp&encryption=none&path=%2F443vl&host=&mode=auto&security=tls&fp=randomized&alpn=h3%2Ch2&sni=asdf.tupn.org#vl443-vls-443
 vless://7c1fd6a6-92ed-44dc-b667-512a900727de@www7.tupn.org:443?type=xhttp&encryption=none&path=%2F443vl&host=&mode=auto&security=tls&fp=randomized&alpn=h3%2Ch2&sni=asdf.tupn.org#vl443-vls-443
 
-trojan://3EVrs5n3nL@www1.tupn.org:2083?security=tls&sni=asdf.tunp.org&fp=randomized&alpn=h3%2Ch2&type=ws&path=%2F2083trj#trj2083-trj-2083
-trojan://3EVrs5n3nL@www2.tupn.org:2083?security=tls&sni=asdf.tunp.org&fp=randomized&alpn=h3%2Ch2&type=ws&path=%2F2083trj#trj2083-trj-2083
-trojan://3EVrs5n3nL@www3.tupn.org:2083?security=tls&sni=asdf.tunp.org&fp=randomized&alpn=h3%2Ch2&type=ws&path=%2F2083trj#trj2083-trj-2083
-trojan://3EVrs5n3nL@www4.tupn.org:2083?security=tls&sni=asdf.tunp.org&fp=randomized&alpn=h3%2Ch2&type=ws&path=%2F2083trj#trj2083-trj-2083
-trojan://3EVrs5n3nL@www5.tupn.org:2083?security=tls&sni=asdf.tunp.org&fp=randomized&alpn=h3%2Ch2&type=ws&path=%2F2083trj#trj2083-trj-2083
-trojan://3EVrs5n3nL@www6.tupn.org:2083?security=tls&sni=asdf.tunp.org&fp=randomized&alpn=h3%2Ch2&type=ws&path=%2F2083trj#trj2083-trj-2083
-trojan://3EVrs5n3nL@www7.tupn.org:2083?security=tls&sni=asdf.tunp.org&fp=randomized&alpn=h3%2Ch2&type=ws&path=%2F2083trj#trj2083-trj-2083
-
 vless://14c1d47e-cf8e-4e01-fdfe-87f358e80058@www1.tupn.org:8443?encryption=none&security=tls&sni=asdf.tupn.org&fp=randomized&alpn=h3%2Ch2&type=ws&path=%2F8443vlws#vl8443-vls-8443
 vless://14c1d47e-cf8e-4e01-fdfe-87f358e80058@www2.tupn.org:8443?encryption=none&security=tls&sni=asdf.tupn.org&fp=randomized&alpn=h3%2Ch2&type=ws&path=%2F8443vlws#vl8443-vls-8443
 vless://14c1d47e-cf8e-4e01-fdfe-87f358e80058@www3.tupn.org:8443?encryption=none&security=tls&sni=asdf.tupn.org&fp=randomized&alpn=h3%2Ch2&type=ws&path=%2F8443vlws#vl8443-vls-8443
